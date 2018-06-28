@@ -1,5 +1,4 @@
 ﻿<?php
-	session_start();
 	$title = 'Inicio - ElectroShop';
 	require_once 'head.php';
 ?>
